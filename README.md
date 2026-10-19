@@ -3,6 +3,8 @@
 
 I map who a business depends on, find the single points of failure hiding a tier or two down, and build tools and AI agent workflows that make that work repeatable, with a person checking every step.
 
+**Portfolio site:** [starboy1968.github.io](https://starboy1968.github.io)
+
 **Start here**
 - [two-suppliers-one-factory](https://github.com/Starboy1968/two-suppliers-one-factory): a case study on finding a hidden tier-2 single point of failure, with a concept map and concept notes
 - [supply-web-audit](https://github.com/Starboy1968/supply-web-audit): an 8-stage supply risk audit that people or AI agents can follow, with a human sign-off at each stage
