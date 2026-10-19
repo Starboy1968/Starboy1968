@@ -1,5 +1,5 @@
 ### Rashon Alsberry
-**Supply chain and third-party risk, automated.** Open to full-time roles and fractional engagements.
+** Aspiring Supply chain and third-party risk, automated.** Open to full-time roles and fractional engagements.
 
 I map who a business depends on, find the single points of failure hiding a tier or two down, and build tools and AI agent workflows that make that work repeatable, with a person checking every step.
 
