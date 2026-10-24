@@ -20,6 +20,7 @@ I map who a business depends on, find the single points of failure hiding a tier
 - [ai-in-supply-chain-operations](https://github.com/Starboy1968/ai-in-supply-chain-operations): how a supply chain manager can use AI in six everyday jobs, and what to check before trusting it
 - [healthcare-cyber-risk-osint-case-study](https://github.com/Starboy1968/healthcare-cyber-risk-osint-case-study): a cyber risk program for a fictional regional health system, built only from public sources
 - [ai-for-it-auditors](https://github.com/Starboy1968/ai-for-it-auditors): nine practical ways AI can speed up IT audit work, from walkthroughs and SOC 2 review to auditing AI, with a human check at every step
+- [localized-small-supply-chain](https://github.com/Starboy1968/localized-small-supply-chain): plain-language AI prompts and workflows for small local businesses, covering suppliers, ordering, forecasting, overstock and dead stock, vendor lead times, and supply risk
 
 **Writing**
 - [AI Risk Lives in the Permissions](writing-samples/ai-risk-memo.pdf): an executive memo on unapproved AI tools as unvetted vendors, with a 30/60/90-day plan (all sources checked)
